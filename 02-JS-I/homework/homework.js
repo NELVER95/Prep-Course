@@ -67,6 +67,9 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
+  const true '5' '5'
+  return true 5 === 5
+  else false 5 <= 9
   
 }
 
